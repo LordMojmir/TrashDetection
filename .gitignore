@@ -1,0 +1,8 @@
+*.pt
+/data
+/.DS_Store
+/.idea
+/.ipynb_checkpoints
+/archive
+/Models
+/yolov5
