@@ -1,5 +1,5 @@
 *.pt
-/data
+/data/images
 /.DS_Store
 /.idea
 /.ipynb_checkpoints
